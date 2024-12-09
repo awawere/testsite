@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Example: Add a simple alert when the page loads
-    alert('Welcome to my simple website!');
+    alert('Click 'Ok' si tu es la plus jolie!');
 
     // Example: Smooth scrolling for navigation links
     document.querySelectorAll('nav ul li a').forEach(anchor => {
